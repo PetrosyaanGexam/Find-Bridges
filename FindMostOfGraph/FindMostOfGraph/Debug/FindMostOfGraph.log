@@ -1,0 +1,3 @@
+﻿  M_Graph.cpp
+C:\Users\DELL\Desktop\Find_Bridges\FindMostOfGraph\FindMostOfGraph\M_Graph.cpp(44,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  FindMostOfGraph.vcxproj -> C:\Users\DELL\Desktop\Find_Bridges\FindMostOfGraph\Debug\FindMostOfGraph.exe
